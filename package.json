@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheasyifakh/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "dheasyifakh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheasyifakh/apprestapi/issues"
+  },
+  "homepage": "https://github.com/dheasyifakh/apprestapi#readme"
+}
